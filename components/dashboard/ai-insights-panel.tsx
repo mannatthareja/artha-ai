@@ -2,7 +2,7 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Lightbulb, TrendingUp, AlertTriangle, Sparkles, ArrowRight } from "lucide-react"
+import { Ligh\\tbulb, TrendingUp, AlertTriangle, Sparkles, ArrowRight } from "lucide-react"
 import { motion } from "framer-motion"
 
 const insights = [
